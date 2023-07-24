@@ -1,0 +1,93 @@
+header {
+     width: 100%;
+    height: 150px;
+    background-color: coral;
+    }
+footer {
+    width: 100%;
+    height: 150px;
+    background-color: darkolivegreen;
+    }
+td {
+    width: 150px;
+    height: 150px;
+    border-style: double;
+}
+table {
+    border: 5;
+}
+#appel {
+    background-color: aqua;
+}
+#peer {
+    background-color: blue;
+}
+#aardbei {
+    background-color: brown;
+}
+#druif {
+    background-color: burlywood;
+}
+#BMW {
+    background-color: chocolate;
+}
+#mercedes {
+    background-color: crimson;
+}
+#audi {
+    background-color: darkgrey;
+}
+#fiat{
+    background-color: forestgreen;
+}
+#iphone {
+    background-color: yellow;
+}
+#samsung {
+    background-color: mediumspringgreen;
+}
+#htc {
+    background-color: indianred;
+}
+#nokia {
+    background-color: teal;
+}
+#ajax {
+    background-color: fuchsia;
+}
+#feyenoord {
+    background-color: lightsalmon;
+}
+#galatasaray {
+    background-color: darkslateblue;
+}
+#manchestercity {
+    background-color: dodgerblue;
+}
+#appel h3 {
+    background-color: brown;
+}
+#BMW h3 {
+    background-color: bisque;
+}
+#iphone h3 {
+    background-color: indianred;
+}
+#druif {background-color: khaki;
+}
+
+#ajax h3 {
+    background-color: lightgreen;
+}
+#aardbei h3 {
+    background-color: plum;
+}
+#audi h3 {
+    background-color: turquoise;
+}
+#htc h3 {
+    background-color: firebrick;
+}
+#feyenoord h3 {
+    background-color: aquamarine;
+}
